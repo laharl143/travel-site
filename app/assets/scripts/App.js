@@ -1,1 +1,2 @@
-alert("Hello, this is just a test hays");
+import '../styles/styles.css'
+
